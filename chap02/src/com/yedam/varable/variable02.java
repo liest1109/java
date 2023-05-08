@@ -76,7 +76,7 @@ public class variable02 {
 		if(stop) {
 			System.out.println("멈춥니다");
 		}else {
-			System.out.println
+	//		System.out.println
 		}
 	}
 }
